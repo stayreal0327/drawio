@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T07:25:00.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JLz4IQ3vMKvMF04NEDOM" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-23T07:28:15.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SHoOY2eNVGVPZ2UTrG4F" version="14.7.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2125" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,6 +28,11 @@
         </mxCell>
         <mxCell id="9unGQqfA-TJdvyLDyZqL-8" value="&lt;div style=&quot;text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;TTPlayer.setIntValue_l(KeyIsEnableAudioEffectSI, value)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="180" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6GsAb6dBtPGrsj9p2fpD-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9unGQqfA-TJdvyLDyZqL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9unGQqfA-TJdvyLDyZqL-9" value="&lt;div style=&quot;text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;AudioOut::settingAudioEffect()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-360" y="350" width="300" height="60" as="geometry" />
